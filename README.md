@@ -1,4 +1,6 @@
-# Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+ Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-
+### BY:P.Vijayakumar
+### RegisterNumber:  23005067
  AIM:
 To study about the different digital IC’s and to verify the truth table in Quartus for the basic logic gates using Verilog programming.
 
@@ -57,24 +59,27 @@ Switch ON the main switch
 Press the switches for inputs “A” and “B”. The switch is ON state when 1 is pressed. The switch is OFF state when 0 is pressed.
 If the output is 1, then the bulb glows.
 Check all the gates following the same procedure.
-Program:
-/*
+### Program:
+
+![2](https://github.com/Srivatsan0405/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841630/83df74fc-94a1-4129-b4c6-43e135fbda9a)
+
+
 Program to verify the truth table in quartus for the basic logic gates using Verilog programming.
-Developed by: P VIJAYAKUMAR
-RegisterNumber: 23005067 
-*/
-![image](https://github.com/vijay4t/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152678030/928e0fee-6314-4d19-b624-b64c52f9215a)
 
-Logic symbol & Truthtable
-![222](https://github.com/vijay4t/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152678030/101d8415-9729-4044-8e3a-08a198c44b40)
+### RTL realization
 
-RTL realization
-![3](https://github.com/vijay4t/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152678030/6a66856a-b872-4a23-9cff-efb8c0dc344d)
+![Capture](https://github.com/Srivatsan0405/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841630/7879a435-aebb-4fbc-a4fb-0fe536b02aa8)
 
-Output:
-![4](https://github.com/vijay4t/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/152678030/b8ba62a4-ebdb-40c2-8490-02249175692a)
 
-RTL
+### Truthtable
+
+![1](https://github.com/Srivatsan0405/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841630/9245eac3-c612-4bdf-8320-7cb91c2f9860)
+
+### Waveform:
+![Screenshot 2023-07-18 121057](https://github.com/Srivatsan0405/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/139841630/ef0cd730-4a32-4b43-af04-5aa3f76fbc6e)
+
+
+
 
 Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
